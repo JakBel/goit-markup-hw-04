@@ -282,6 +282,7 @@ img {
     flex-wrap: wrap;
     justify-content: space-between;
     padding-top: 50px;
+    cursor: pointer;
 }
 .portfolio_projects-list{
     display: flex;
